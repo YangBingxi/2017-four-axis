@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=5V Pin=RLEDB-2
+Removed Pin From Net: NetName=5V Pin=RLEDR-2
+Added Pin To Net: NetName=3.3V Pin=RLEDB-2
+Added Pin To Net: NetName=3.3V Pin=RLEDR-2
+Added Member To Class: ClassName=Sheet1 Member=Component RX23T
+Added Member To Class: ClassName=Sheet1 Member=Component S13 贴片轻触开关
+Added Member To Class: ClassName=Sheet1 Member=Component S14 贴片轻触开关
+Added Member To Class: ClassName=Sheet1 Member=Component S15 贴片轻触开关
+Added Member To Class: ClassName=Sheet1 Member=Component S16 贴片轻触开关
+Added Room: Name=Sheet1

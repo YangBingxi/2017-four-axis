@@ -1,0 +1,199 @@
+Added Component: Designator=3.3V_H(HDR1X6)
+Added Component: Designator=5V_H(HDR1X6)
+Added Component: Designator=C1(CAP 2.5*5*11)
+Added Component: Designator=GND_H(HDR1X6)
+Added Component: Designator=LEDB(LED 3MM-R)
+Added Component: Designator=LEDR(LED 3MM-R)
+Added Component: Designator=OLED_H(HDR1X7)
+Added Component: Designator=RLEDB(RS 1/4W)
+Added Component: Designator=RLEDR(RS 1/4W)
+Added Component: Designator=RX23T(RFR)
+Added Component: Designator=S1(SW-6*6)
+Added Component: Designator=S2(SW-6*6)
+Added Component: Designator=S3(SW-6*6)
+Added Component: Designator=S4(SW-6*6)
+Added Component: Designator=S5(SW-6*6)
+Added Component: Designator=S6(SW-6*6)
+Added Component: Designator=S7(SW-6*6)
+Added Component: Designator=S8(SW-6*6)
+Added Component: Designator=S9(SW-6*6)
+Added Component: Designator=S10(SW-6*6)
+Added Component: Designator=S11(SW-6*6)
+Added Component: Designator=S12(SW-6*6)
+Added Component: Designator=S13(SW-6*6)
+Added Component: Designator=S14(SW-6*6)
+Added Component: Designator=S15(SW-6*6)
+Added Component: Designator=S16(SW-6*6)
+Added Component: Designator=SCI1&PPM(HDR1X2)
+Added Component: Designator=Sonar_H(HDR1X2)
+Added Component: Designator=U1(SOT223_M)
+Added Component: Designator=WIFI(HDR1X7)
+Added Pin To Net: NetName=3.3V Pin=3.3V_H-1
+Added Pin To Net: NetName=3.3V Pin=3.3V_H-2
+Added Pin To Net: NetName=3.3V Pin=3.3V_H-3
+Added Pin To Net: NetName=3.3V Pin=3.3V_H-4
+Added Pin To Net: NetName=3.3V Pin=3.3V_H-5
+Added Pin To Net: NetName=3.3V Pin=3.3V_H-6
+Added Pin To Net: NetName=5V Pin=5V_H-1
+Added Pin To Net: NetName=5V Pin=5V_H-2
+Added Pin To Net: NetName=5V Pin=5V_H-3
+Added Pin To Net: NetName=5V Pin=5V_H-4
+Added Pin To Net: NetName=5V Pin=5V_H-5
+Added Pin To Net: NetName=5V Pin=5V_H-6
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=3.3V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=GND_H-1
+Added Pin To Net: NetName=GND Pin=GND_H-2
+Added Pin To Net: NetName=GND Pin=GND_H-3
+Added Pin To Net: NetName=GND Pin=GND_H-4
+Added Pin To Net: NetName=GND Pin=GND_H-5
+Added Pin To Net: NetName=GND Pin=GND_H-6
+Added Pin To Net: NetName=NetLEDB_1 Pin=LEDB-1
+Added Pin To Net: NetName=LEDB Pin=LEDB-2
+Added Pin To Net: NetName=NetLEDR_1 Pin=LEDR-1
+Added Pin To Net: NetName=LEDR Pin=LEDR-2
+Added Pin To Net: NetName=GND Pin=OLED_H-1
+Added Pin To Net: NetName=DC Pin=OLED_H-2
+Added Pin To Net: NetName=RES Pin=OLED_H-3
+Added Pin To Net: NetName=SDA Pin=OLED_H-4
+Added Pin To Net: NetName=SCK Pin=OLED_H-5
+Added Pin To Net: NetName=3.3V Pin=OLED_H-6
+Added Pin To Net: NetName=GND Pin=OLED_H-7
+Added Pin To Net: NetName=NetLEDB_1 Pin=RLEDB-1
+Added Pin To Net: NetName=3.3V Pin=RLEDB-2
+Added Pin To Net: NetName=NetLEDR_1 Pin=RLEDR-1
+Added Pin To Net: NetName=3.3V Pin=RLEDR-2
+Added Pin To Net: NetName=3.3V Pin=RX23T-10
+Added Pin To Net: NetName=PPM Pin=RX23T-14
+Added Pin To Net: NetName=SCI1 Pin=RX23T-16
+Added Pin To Net: NetName=WIFI_RX Pin=RX23T-18
+Added Pin To Net: NetName=WIFI_TX Pin=RX23T-19
+Added Pin To Net: NetName=RES Pin=RX23T-25
+Added Pin To Net: NetName=SDA Pin=RX23T-26
+Added Pin To Net: NetName=DC Pin=RX23T-27
+Added Pin To Net: NetName=SCK Pin=RX23T-30
+Added Pin To Net: NetName=C4 Pin=RX23T-34
+Added Pin To Net: NetName=C3 Pin=RX23T-35
+Added Pin To Net: NetName=C2 Pin=RX23T-37
+Added Pin To Net: NetName=C1 Pin=RX23T-39
+Added Pin To Net: NetName=R4 Pin=RX23T-41
+Added Pin To Net: NetName=3.3V Pin=RX23T-42
+Added Pin To Net: NetName=R3 Pin=RX23T-43
+Added Pin To Net: NetName=GND Pin=RX23T-44
+Added Pin To Net: NetName=R2 Pin=RX23T-45
+Added Pin To Net: NetName=R1 Pin=RX23T-47
+Added Pin To Net: NetName=LEDR Pin=RX23T-49
+Added Pin To Net: NetName=LEDB Pin=RX23T-51
+Added Pin To Net: NetName=C1 Pin=S1-1
+Added Pin To Net: NetName=C1 Pin=S1-1
+Added Pin To Net: NetName=R1 Pin=S1-2
+Added Pin To Net: NetName=R1 Pin=S1-2
+Added Pin To Net: NetName=C2 Pin=S2-1
+Added Pin To Net: NetName=C2 Pin=S2-1
+Added Pin To Net: NetName=R1 Pin=S2-2
+Added Pin To Net: NetName=R1 Pin=S2-2
+Added Pin To Net: NetName=C3 Pin=S3-1
+Added Pin To Net: NetName=C3 Pin=S3-1
+Added Pin To Net: NetName=R1 Pin=S3-2
+Added Pin To Net: NetName=R1 Pin=S3-2
+Added Pin To Net: NetName=C4 Pin=S4-1
+Added Pin To Net: NetName=C4 Pin=S4-1
+Added Pin To Net: NetName=R1 Pin=S4-2
+Added Pin To Net: NetName=R1 Pin=S4-2
+Added Pin To Net: NetName=C1 Pin=S5-1
+Added Pin To Net: NetName=C1 Pin=S5-1
+Added Pin To Net: NetName=R2 Pin=S5-2
+Added Pin To Net: NetName=R2 Pin=S5-2
+Added Pin To Net: NetName=C2 Pin=S6-1
+Added Pin To Net: NetName=C2 Pin=S6-1
+Added Pin To Net: NetName=R2 Pin=S6-2
+Added Pin To Net: NetName=R2 Pin=S6-2
+Added Pin To Net: NetName=C3 Pin=S7-1
+Added Pin To Net: NetName=C3 Pin=S7-1
+Added Pin To Net: NetName=R2 Pin=S7-2
+Added Pin To Net: NetName=R2 Pin=S7-2
+Added Pin To Net: NetName=C4 Pin=S8-1
+Added Pin To Net: NetName=C4 Pin=S8-1
+Added Pin To Net: NetName=R2 Pin=S8-2
+Added Pin To Net: NetName=R2 Pin=S8-2
+Added Pin To Net: NetName=C1 Pin=S9-1
+Added Pin To Net: NetName=C1 Pin=S9-1
+Added Pin To Net: NetName=R3 Pin=S9-2
+Added Pin To Net: NetName=R3 Pin=S9-2
+Added Pin To Net: NetName=C2 Pin=S10-1
+Added Pin To Net: NetName=C2 Pin=S10-1
+Added Pin To Net: NetName=R3 Pin=S10-2
+Added Pin To Net: NetName=R3 Pin=S10-2
+Added Pin To Net: NetName=C3 Pin=S11-1
+Added Pin To Net: NetName=C3 Pin=S11-1
+Added Pin To Net: NetName=R3 Pin=S11-2
+Added Pin To Net: NetName=R3 Pin=S11-2
+Added Pin To Net: NetName=C4 Pin=S12-1
+Added Pin To Net: NetName=C4 Pin=S12-1
+Added Pin To Net: NetName=R3 Pin=S12-2
+Added Pin To Net: NetName=R3 Pin=S12-2
+Added Pin To Net: NetName=C1 Pin=S13-1
+Added Pin To Net: NetName=C1 Pin=S13-1
+Added Pin To Net: NetName=R4 Pin=S13-2
+Added Pin To Net: NetName=R4 Pin=S13-2
+Added Pin To Net: NetName=C2 Pin=S14-1
+Added Pin To Net: NetName=C2 Pin=S14-1
+Added Pin To Net: NetName=R4 Pin=S14-2
+Added Pin To Net: NetName=R4 Pin=S14-2
+Added Pin To Net: NetName=C3 Pin=S15-1
+Added Pin To Net: NetName=C3 Pin=S15-1
+Added Pin To Net: NetName=R4 Pin=S15-2
+Added Pin To Net: NetName=R4 Pin=S15-2
+Added Pin To Net: NetName=C4 Pin=S16-1
+Added Pin To Net: NetName=C4 Pin=S16-1
+Added Pin To Net: NetName=R4 Pin=S16-2
+Added Pin To Net: NetName=R4 Pin=S16-2
+Added Pin To Net: NetName=SCI1 Pin=SCI1&PPM-1
+Added Pin To Net: NetName=PPM Pin=SCI1&PPM-2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=5V Pin=U1-3
+Added Pin To Net: NetName=GND Pin=WIFI-1
+Added Pin To Net: NetName=5V Pin=WIFI-2
+Added Pin To Net: NetName=WIFI_TX Pin=WIFI-4
+Added Pin To Net: NetName=WIFI_RX Pin=WIFI-5
+Added Pin To Net: NetName=GND Pin=WIFI-6
+Added Pin To Net: NetName=5V Pin=WIFI-7
+Added Pin To Net: NetName=ECHO Pin=RX23T-46
+Added Pin To Net: NetName=ECHO Pin=Sonar_H-1
+Added Net: Name=ECHO
+Added Pin To Net: NetName=TRIGGER Pin=RX23T-2
+Added Pin To Net: NetName=TRIGGER Pin=Sonar_H-2
+Added Net: Name=TRIGGER
+Added Member To Class: ClassName=Sheet1 Member=Component 3.3V_H Header 6
+Added Member To Class: ClassName=Sheet1 Member=Component 5V_H Header 6
+Added Member To Class: ClassName=Sheet1 Member=Component C1 Cap Pol3
+Added Member To Class: ClassName=Sheet1 Member=Component GND_H Header 6
+Added Member To Class: ClassName=Sheet1 Member=Component LEDB LED
+Added Member To Class: ClassName=Sheet1 Member=Component LEDR LED
+Added Member To Class: ClassName=Sheet1 Member=Component OLED_H Header 7
+Added Member To Class: ClassName=Sheet1 Member=Component RLEDB 1K
+Added Member To Class: ClassName=Sheet1 Member=Component RLEDR 1K
+Added Member To Class: ClassName=Sheet1 Member=Component RX23T
+Added Member To Class: ClassName=Sheet1 Member=Component S1 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S2 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S3 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S4 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S5 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S6 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S7 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S8 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S9 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S10 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S11 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S12 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S13 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S14 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S15 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component S16 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=Sheet1 Member=Component SCI1&PPM Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component Sonar_H Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM1117IMP-3.3
+Added Member To Class: ClassName=Sheet1 Member=Component WIFI Header 7
+Added Room: Name=Sheet1

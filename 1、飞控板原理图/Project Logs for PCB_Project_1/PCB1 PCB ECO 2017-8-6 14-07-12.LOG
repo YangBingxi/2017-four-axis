@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V Pin=REMOTE_H-6
+Removed Pin From Net: NetName=GND Pin=REMOTE_H-7
+Removed Member From Class: ClassName=Sheet1 Member=REMOTE_H
+Change Net Name : Old Net Name=RX New Net Name=WIFI_RX
+Change Net Name : Old Net Name=TX New Net Name=WIFI_TX
+Added Room: Name=Sheet1

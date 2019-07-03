@@ -1,0 +1,5 @@
+Change Component Kind : Designator=RX23T Old Kind=Jumper New Kind=Standard
+Added Pin To Net: NetName=LEDR Pin=RX23T-31
+Added Pin To Net: NetName=LEDB Pin=RX23T-36
+Added Member To Class: ClassName=Sheet1 Member=Component RX23T
+Added Room: Name=Sheet1

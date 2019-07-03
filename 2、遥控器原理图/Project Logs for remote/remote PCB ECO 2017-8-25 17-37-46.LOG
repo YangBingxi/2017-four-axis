@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=3V3 Pin=RX23T-57
+Added Pin To Net: NetName=3V3 Pin=RX23T-20
+Added Room: Name=remote

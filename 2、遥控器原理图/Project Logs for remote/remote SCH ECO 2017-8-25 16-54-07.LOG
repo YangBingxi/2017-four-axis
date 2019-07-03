@@ -1,0 +1,2 @@
+Remove Pin=RX23T-8 From Net=GND
+Remove Pin=RX23T-10 From Net=3V3

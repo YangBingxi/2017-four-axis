@@ -1,0 +1,97 @@
+Removed Pin From Net: NetName=3V3 Pin=D1-2
+Removed Pin From Net: NetName=3V3 Pin=D2-2
+Removed Pin From Net: NetName=LED1 Pin=R1-1
+Removed Pin From Net: NetName=LED2 Pin=R2-1
+Removed Member From Class: ClassName=remote Member=D1
+Removed Member From Class: ClassName=remote Member=D2
+Removed Member From Class: ClassName=remote Member=R1
+Removed Member From Class: ClassName=remote Member=R2
+Added Component: Designator=+90(SW-6*6)
+Added Component: Designator=-90(SW-6*6)
+Added Component: Designator=BACK(SW-6*6)
+Added Component: Designator=DROP(SW-6*6)
+Added Component: Designator=EMERGENCY(SW-6*6)
+Added Component: Designator=GO(SW-6*6)
+Added Component: Designator=LEFT(SW-6*6)
+Added Component: Designator=POWER(HDR1X2)
+Added Component: Designator=RIGHT(SW-6*6)
+Added Component: Designator=RX23T(RFR)
+Added Component: Designator=STOP(SW-6*6)
+Added Component: Designator=SWITCH(HDR1X5)
+Added Pin To Net: NetName=GND Pin=+90-2
+Added Pin To Net: NetName=GND Pin=+90-2
+Added Pin To Net: NetName=GND Pin=-90-2
+Added Pin To Net: NetName=GND Pin=-90-2
+Added Pin To Net: NetName=GND Pin=BACK-2
+Added Pin To Net: NetName=GND Pin=BACK-2
+Added Pin To Net: NetName=GND Pin=DROP-2
+Added Pin To Net: NetName=GND Pin=DROP-2
+Added Pin To Net: NetName=GND Pin=EMERGENCY-2
+Added Pin To Net: NetName=GND Pin=EMERGENCY-2
+Added Pin To Net: NetName=GND Pin=GO-2
+Added Pin To Net: NetName=GND Pin=GO-2
+Added Pin To Net: NetName=GND Pin=LEFT-2
+Added Pin To Net: NetName=GND Pin=LEFT-2
+Added Pin To Net: NetName=GND Pin=POWER-1
+Added Pin To Net: NetName=GND Pin=RIGHT-2
+Added Pin To Net: NetName=GND Pin=RIGHT-2
+Added Pin To Net: NetName=TX Pin=RX23T-14
+Added Pin To Net: NetName=RX Pin=RX23T-16
+Added Pin To Net: NetName=LED2 Pin=RX23T-51
+Added Pin To Net: NetName=LED1 Pin=RX23T-53
+Added Pin To Net: NetName=SDA Pin=RX23T-63
+Added Pin To Net: NetName=SCL Pin=RX23T-64
+Added Pin To Net: NetName=GND Pin=STOP-2
+Added Pin To Net: NetName=GND Pin=STOP-2
+Added Pin To Net: NetName=3V3 Pin=SWITCH-3
+Added Pin To Net: NetName=+90 Pin=+90-1
+Added Pin To Net: NetName=+90 Pin=+90-1
+Added Pin To Net: NetName=+90 Pin=RX23T-62
+Added Net: Name=+90
+Added Pin To Net: NetName=-90 Pin=-90-1
+Added Pin To Net: NetName=-90 Pin=-90-1
+Added Pin To Net: NetName=-90 Pin=RX23T-56
+Added Net: Name=-90
+Added Pin To Net: NetName=BACK Pin=BACK-1
+Added Pin To Net: NetName=BACK Pin=BACK-1
+Added Pin To Net: NetName=BACK Pin=RX23T-31
+Added Net: Name=BACK
+Added Pin To Net: NetName=DROP Pin=DROP-1
+Added Pin To Net: NetName=DROP Pin=DROP-1
+Added Pin To Net: NetName=DROP Pin=RX23T-55
+Added Net: Name=DROP
+Added Pin To Net: NetName=EMERGENCY Pin=EMERGENCY-1
+Added Pin To Net: NetName=EMERGENCY Pin=EMERGENCY-1
+Added Pin To Net: NetName=EMERGENCY Pin=RX23T-49
+Added Net: Name=EMERGENCY
+Added Pin To Net: NetName=GO Pin=GO-1
+Added Pin To Net: NetName=GO Pin=GO-1
+Added Pin To Net: NetName=GO Pin=RX23T-1
+Added Net: Name=GO
+Added Pin To Net: NetName=LEFT Pin=LEFT-1
+Added Pin To Net: NetName=LEFT Pin=LEFT-1
+Added Pin To Net: NetName=LEFT Pin=RX23T-30
+Added Net: Name=LEFT
+Added Pin To Net: NetName=RIGHT Pin=RIGHT-1
+Added Pin To Net: NetName=RIGHT Pin=RIGHT-1
+Added Pin To Net: NetName=RIGHT Pin=RX23T-28
+Added Net: Name=RIGHT
+Added Pin To Net: NetName=STOP Pin=RX23T-61
+Added Pin To Net: NetName=STOP Pin=STOP-1
+Added Pin To Net: NetName=STOP Pin=STOP-1
+Added Net: Name=STOP
+Added Pin To Net: NetName=VIN Pin=POWER-2
+Added Pin To Net: NetName=VIN Pin=SWITCH-2
+Added Net: Name=VIN
+Added Member To Class: ClassName=remote Member=Component +90 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component -90 ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component BACK ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component DROP ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component EMERGENCY ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component GO ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component LEFT ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component POWER Header 2
+Added Member To Class: ClassName=remote Member=Component RIGHT ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component RX23T
+Added Member To Class: ClassName=remote Member=Component STOP ÌùÆ¬Çá´¥¿ª¹Ø
+Added Member To Class: ClassName=remote Member=Component SWITCH Header 5

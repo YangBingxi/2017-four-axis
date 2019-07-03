@@ -1,0 +1,16 @@
+Added Component: Designator=LED1(LED 3MM-R)
+Added Component: Designator=LED2(LED 3MM-R)
+Added Component: Designator=RLED1(RS 1/4W)
+Added Component: Designator=RLED2(RS 1/4W)
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=LED1 Pin=RLED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=RLED1-2
+Added Pin To Net: NetName=LED2 Pin=RLED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=RLED2-2
+Added Member To Class: ClassName=remote Member=Component LED1 LED
+Added Member To Class: ClassName=remote Member=Component LED2 LED
+Added Member To Class: ClassName=remote Member=Component RLED1 1K
+Added Member To Class: ClassName=remote Member=Component RLED2 1K

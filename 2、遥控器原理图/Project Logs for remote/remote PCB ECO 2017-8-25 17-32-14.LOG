@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GO Pin=RX23T-1
+Removed Pin From Net: NetName=RIGHT Pin=RX23T-28
+Removed Pin From Net: NetName=LEFT Pin=RX23T-30
+Removed Pin From Net: NetName=BACK Pin=RX23T-31
+Removed Pin From Net: NetName=EMERGENCY Pin=RX23T-49
+Removed Pin From Net: NetName=DROP Pin=RX23T-55
+Removed Pin From Net: NetName=-90 Pin=RX23T-56
+Removed Pin From Net: NetName=STOP Pin=RX23T-61
+Removed Pin From Net: NetName=+90 Pin=RX23T-62
+Added Pin To Net: NetName=DROP Pin=RX23T-29
+Added Pin To Net: NetName=EMERGENCY Pin=RX23T-31
+Added Pin To Net: NetName=STOP Pin=RX23T-41
+Added Pin To Net: NetName=RIGHT Pin=RX23T-43
+Added Pin To Net: NetName=BACK Pin=RX23T-45
+Added Pin To Net: NetName=-90 Pin=RX23T-46
+Added Pin To Net: NetName=LEFT Pin=RX23T-47
+Added Pin To Net: NetName=+90 Pin=RX23T-48
+Added Pin To Net: NetName=GO Pin=RX23T-49
+Added Room: Name=remote
